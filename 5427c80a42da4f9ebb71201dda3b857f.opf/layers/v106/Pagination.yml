@@ -1831,13 +1831,13 @@ annotations:
     reference: ''
     span:
       start: 371473
-      end: 373425
+      end: 373419
   d72d4404f95646ad9a207d835a2af7c4:
     imgnum: 422
     reference: ''
     span:
-      start: 373427
-      end: 374002
+      start: 373421
+      end: 373996
 local_ids:
   5ba698db6a7d4833a73dd716e495145c: 200000
   11a585bf45284b75a9ff3e1940b0eecb: 200001
